@@ -1,0 +1,19 @@
+# 依赖
+node_modules/
+
+# Reasonix 本地会话数据（含剪贴板附件等，不应入库）
+.reasonix/
+
+# 环境变量与密钥
+.env
+.env.*
+
+# 测试生成的临时文件
+test/fixtures/
+
+# 日志
+*.log
+
+# 系统文件
+Thumbs.db
+.DS_Store
