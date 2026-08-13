@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "glm-vision-mcp": {
+      "command": "node",
+      "args": ["C:\\Users\\12579\\Desktop\\mcp图片封装\\src\\index.js"],
+      "env": {
+        "ZHIPU_API_KEY": "${ZHIPU_API_KEY}"
+      }
+    }
+  }
+}
